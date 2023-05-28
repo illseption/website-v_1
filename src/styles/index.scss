@@ -1,0 +1,27 @@
+.content {
+  padding-left: 1.5rem;
+}
+
+.home {
+  font-family: "Helvetica Neue";
+  max-width: 20rem;
+  max-width: 15em;
+  padding-top: 12px;
+  padding-left: 15px;
+}
+
+.sidebar {
+  width: 3rem;
+  position: fixed;
+  top: 0;
+  height: calc(100% - 4rem - 2px);
+  margin-right: 5px;
+
+  .text-container {
+    display: flex;
+    padding-top: 5px;
+    align-items: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+  }
+}
