@@ -19,9 +19,10 @@
 
   .text-container {
     display: flex;
-    padding-top: 5px;
+    padding-top: 10px;
     align-items: center;
     font-family: 'Courier New', Courier, monospace;
     font-weight: bold;
+    writing-mode: vertical-lr;
   }
 }
