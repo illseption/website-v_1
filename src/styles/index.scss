@@ -37,3 +37,32 @@
     }
   }
 }
+
+@media screen and (min-width: 320px) and (max-width: 768px){
+  .content {
+    padding: 2rem 0 0;
+    display: flex;
+    justify-content: center;
+  }
+
+  .sidebar {
+    width: 95%;
+    height: 3rem;
+    margin: 0;
+    top: 10px;
+    display: flex;
+    justify-content: center;
+
+    .text-container {
+      writing-mode: initial;
+      padding: 10px 15px;
+      border: 1px solid #000;
+      border-radius: 25px;
+      height: 12px;
+
+      .arrows {
+        margin: 0 8px;
+      }
+    }
+  }
+}
