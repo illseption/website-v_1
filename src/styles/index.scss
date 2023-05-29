@@ -8,6 +8,11 @@
   max-width: 15em;
   padding-top: 12px;
   padding-left: 15px;
+
+  .link {
+    text-decoration: none;
+    color: #616161;
+  }
 }
 
 .sidebar {
@@ -24,5 +29,11 @@
     font-family: 'Courier New', Courier, monospace;
     font-weight: bold;
     writing-mode: vertical-lr;
+
+    .arrows {
+      margin: 5px 0;
+      font-size: 20px;
+      cursor: pointer;
+    }
   }
 }

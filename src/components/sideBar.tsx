@@ -6,6 +6,9 @@ const SideBar = () => {
     <div className="sidebar">
       <div className="text-container">
         <span>aman.</span>
+        <span className="arrows">&larr;</span>
+        <span>/</span>
+        <span className="arrows">&rarr;</span>
       </div>
     </div>
   )
