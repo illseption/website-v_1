@@ -1,0 +1,77 @@
+[
+  {
+    "name": "The Black Swan",
+    "read": true
+  },
+  {
+    "name": "Shoe Dog",
+    "read": true
+  },
+  {
+    "name": "Fooled by Randomness",
+    "read": true
+  },
+  {
+    "name": "The Psychology of Money",
+    "read": true
+  },
+  {
+    "name": "The Almanack of Naval Ravikant",
+    "read": false,
+    "reading": true
+  },
+  {
+    "name": "Meditations",
+    "read": false,
+    "reading": true
+  },
+  {
+    "name": "What I talk about when I talk about running",
+    "read": false,
+    "reading": true
+  },
+  {
+    "name": "Atlas Shrugged",
+    "read": false,
+    "reading": true
+  },
+  {
+    "name": "A Random Walk Down Wall Street",
+    "read": false,
+    "reading": true
+  },
+  {
+    "name": "The Bed of Procrustes",
+    "read": false,
+    "reading": true
+  },
+  {
+    "name": "Invisible Cities",
+    "read": false,
+    "reading": true
+  },
+  {
+    "name": "The Tartar Steppe",
+    "read": false
+  },
+  {
+    "name": "Antifragile",
+    "read": false
+  },
+  {
+    "name": "The Great Gatsby",
+    "read": false
+  },
+  {
+    "name": "The Lifecycle of Software Objects",
+    "read": false
+  },
+  {
+    "name": "The Art of Learning",
+    "read": false
+  },
+  {
+    "name": "Learning How to Learn",
+    "read": false
+  }
+]
